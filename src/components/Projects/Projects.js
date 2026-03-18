@@ -4,7 +4,6 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import portfolio from "../../Assets/Projects/portfolio.png";
 import chatbot from "../../Assets/Projects/chatbot.png";
-import population from "../../Assets/Projects/population.png";
 import ums from "../../Assets/Projects/ums.png";
 import eventviewz from "../../Assets/Projects/eventviewz.png";
 
