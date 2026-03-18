@@ -9,7 +9,9 @@ import {
   SiVercel,
   SiMacos,
 } from "react-icons/si";
-
+import {
+  DiGit,
+} from "react-icons/di";
 
 function Toolstack() {
   return (
