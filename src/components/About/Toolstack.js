@@ -1,28 +1,15 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { FaLinux } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { SiCanva } from "react-icons/si";
 
 import {
   SiVisualstudiocode,
-  SiPostman,
   SiSlack,
   SiVercel,
   SiMacos,
 } from "react-icons/si";
-import {
-  DiJavascript1,
-  DiReact,
-  DiNodejs,
-  DiMongodb,
-  DiPython,
-  DiGit,
-  DiJava,
-  DiHtml5,
-  DiCss3,
 
-} from "react-icons/di";
 
 function Toolstack() {
   return (
