@@ -318,7 +318,7 @@ button:focus {
 }
 
 .myAvtar img {
-    width: 300px;   /* adjust size */
+    width: 290px;   /* adjust size */
     height: auto;   /* keeps aspect ratio */
     border-radius: 10px; /* optional styling */
 }
